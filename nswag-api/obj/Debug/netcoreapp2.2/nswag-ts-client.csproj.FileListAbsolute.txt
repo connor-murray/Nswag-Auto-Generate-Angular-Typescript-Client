@@ -1,0 +1,14 @@
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\bin\Debug\netcoreapp2.2\nswag-ts-client.deps.json
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\bin\Debug\netcoreapp2.2\nswag-ts-client.runtimeconfig.json
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\bin\Debug\netcoreapp2.2\nswag-ts-client.runtimeconfig.dev.json
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\bin\Debug\netcoreapp2.2\nswag-ts-client.dll
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\bin\Debug\netcoreapp2.2\nswag-ts-client.pdb
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.csproj.CoreCompileInputs.cache
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.RazorAssemblyInfo.cache
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.RazorAssemblyInfo.cs
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.AssemblyInfoInputs.cache
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.AssemblyInfo.cs
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.RazorTargetAssemblyInfo.cache
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.dll
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.pdb
+C:\dev\PERSONAL\connor\nswag-ts-client\nswag-ts-client\obj\Debug\netcoreapp2.2\nswag-ts-client.csprojAssemblyReference.cache
